@@ -18,7 +18,7 @@ function botekle_info()
         "authorsite"    => "http://www.emrekarakaya.com.tr",
         "version"       => "1.0",
         "guid"          => "",
-        "compatibility" => "14*,16*"
+        "compatibility" => "14*,16*,18*"
     );
 }
 function botekle_activate()
